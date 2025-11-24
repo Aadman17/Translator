@@ -27,7 +27,7 @@ INDIAN_LANGUAGES = {
 def display_menu():
     #Display the language selection menu
     print("\n"+"="*50)
-    print(" ENGLISH to and fro INDIAN LANGUAGES TRANSLATOR")
+    print(" ENGLISH to and from INDIAN LANGUAGES TRANSLATOR")
     print("="*50)
     print("\nSelect target language:")
     print("-"*50)
